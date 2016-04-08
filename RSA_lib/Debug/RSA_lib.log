@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  RSA_lib.cpp
+c:\users\fujitsu-nb\documents\visual studio 2015\projects\task2\rsa_lib\rsa_lib.cpp(13): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+c:\users\fujitsu-nb\documents\visual studio 2015\projects\task2\rsa_lib\rsa_lib.cpp(15): warning C4244: аргумент: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+c:\users\fujitsu-nb\documents\visual studio 2015\projects\task2\rsa_lib\rsa_lib.cpp(25): warning C4715: sundaram: значение возвращается не при всех путях выполнения
+c:\users\fujitsu-nb\documents\visual studio 2015\projects\task2\rsa_lib\rsa_lib.cpp(112): warning C4715: generete_public_exponent: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Fujitsu-nb\documents\visual studio 2015\Projects\Task2\Debug\RSA_lib.lib и объект C:\Users\Fujitsu-nb\documents\visual studio 2015\Projects\Task2\Debug\RSA_lib.exp
+  RSA_lib.vcxproj -> C:\Users\Fujitsu-nb\documents\visual studio 2015\Projects\Task2\Debug\RSA_lib.dll
